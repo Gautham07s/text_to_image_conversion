@@ -18,11 +18,11 @@ By inputting any **text prompt**, the model generates a corresponding **realisti
 ## 📄 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Gautham07s/text_to_image_conversion.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd your-repo-name
+   cd text_to_image_conversion
    ```
 3. Install the required dependencies:
    ```bash
